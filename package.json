@@ -1,0 +1,1 @@
+{"description":"make.fun entry: the funniest one-line out-of-office email reply","license":"MIT","main":"main.ts","name":"funniest-out-of-office-reply","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
